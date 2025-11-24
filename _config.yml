@@ -71,7 +71,7 @@ author:
       url: "https://github.com/Healtherr"
     - label: "LoveTree"
       icon: "fab fa-fw fa-instagram"
-      url: "https://github.com/Healtherr/LoveTree.git"
+      url: "https://healtherr.github.io/LoveTree/"
 
 footer:
   links:
@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Healtherr"
     - label: "LoveTree"
-      url: "https://github.com/Healtherr/LoveTree.git"
+      url: "https://healtherr.github.io/LoveTree/"
 
 defaults:
   # _posts
