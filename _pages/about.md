@@ -1,8 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于我"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<ol>
+<li>HEALTHER名字的由来</li>
+  HEALTHER是我用简单的造词法创造的，起因是高中英语课上老师要我们每个人给自己起个名字，而我想到舍友看到我每晚都在吃苹果时对我的评价便想到了"Health"+"er"这样的创造。于是HEALTHER诞生了。可以简单理解为健康的人的意思，或者去掉L成为正常的英文名Heather（这是英语老师的建议），或者也可以理解为游戏中治愈者的角色。健康、治愈、积极、阳光，这是我对自己的期望。
+<li>已知信息</li>
+  至今已经20岁了，目前在西安上大学，在浙江宁波长大。
+</ol>
